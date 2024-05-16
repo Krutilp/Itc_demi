@@ -1,0 +1,45 @@
+.main .symbol
+{
+    border-radius: 80px;
+    height: 150px;
+}
+/* .main h1
+{
+    display: inline;
+    margin-left: 40rem;
+    padding-bottom:100rem;
+} */
+.name
+{
+    font-size: xx-large;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.title 
+{
+    color: aliceblue;
+    background-color: rgb(49, 54, 54);
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.main ul li
+{
+    color: rgb(16, 110, 153);
+    font-family: 'Times New Roman', Times, serif;
+}
+h2
+{
+    color: rgb(0, 0, 0);
+    background-color: rgba(184, 184, 184, 0.836);
+    font-family: 'Times New Roman', Times, serif;
+}
+.navbar {
+    display: flex;
+    align-items: center;
+
+}
+
+.name {
+      margin: 0 0 0 725px;
+}
